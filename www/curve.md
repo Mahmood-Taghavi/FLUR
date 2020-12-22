@@ -1,0 +1,1 @@
+﻿In this section you can calculate the long-term PM~2.5~ diurnal variation curves for all *Coordinates* in the mega-city of Tehran. Furthermore, you can save the curve values and save the curve image. 
